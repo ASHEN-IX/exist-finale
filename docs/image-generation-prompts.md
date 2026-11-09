@@ -9,3 +9,15 @@ Use case: photorealistic-natural. Asset type: portrait for a fictional marketing
 ## assets/suit-concept.png
 
 Use case: product-mockup. Asset type: conceptual menswear product image for academic presentation, portrait 2:3. A complete dark navy slim-fit three-piece men's ceremony suit displayed on an invisible mannequin: tailored jacket open enough to clearly show matching waistcoat, crisp white shirt and burgundy tie, matching full-length trousers visible all the way to hems. Straight-on full-length studio catalog photography, centered, entire garment visible with generous empty margin on all four sides. Warm light ivory seamless background, soft diffuse studio lighting with restrained contact shadow. Fine wool weave and clear lapel edges, realistic proportions and elegant tailoring, clean high detail, no artificial grain or noise, no harsh oversharpening, no words, logos, labels, props, UI arrows, or watermark. Do not crop trousers or shoulders. This is a fictional product concept, not a specific branded SKU.
+
+## Transparent cutout edits
+
+Tool: built-in Imagegen with `transparent_background: true`. Each existing project PNG was supplied as its own edit reference. The resulting RGBA cutouts replace the same project asset paths.
+
+### Portrait edit prompt
+
+Remove only the studio background from this Yassine portrait. Output a genuine transparent RGBA PNG cutout. Preserve exactly the man's identity, face, hair, expression, pose, anatomy, suit, shirt, burgundy tie, skin tone, lighting, details and original portrait framing. Preserve fine hair and fabric edges with clean alpha, no dark halo, no white fringe. All background pixels must be transparent, including gaps outside his silhouette. No added shadow, no background color, no checkerboard pattern baked into the image, no text or border. Do not redesign or regenerate the character.
+
+### Suit edit prompt
+
+Background extraction only. Remove the ivory studio background and floor shadow from the supplied three-piece suit product image. Return a genuine transparent RGBA PNG cutout of exactly the existing entire suit: navy jacket, waistcoat, white shirt, burgundy tie, pocket square and full length trousers. Keep the same arrangement, proportions, color, fabric detail, buttons and complete trouser hems. Preserve the original 2:3 framing and margins. Also make the empty gap between trouser legs transparent. Clean precise alpha edge, no ivory fringe or halo, no background color, no baked checkerboard, no shadow or added elements. Do not change the product or crop it.

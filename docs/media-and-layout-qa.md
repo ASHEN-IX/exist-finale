@@ -41,3 +41,10 @@ Visual inspection distinguishes softness, compression artifacts, genuine surface
 ## Generation
 
 Both new images were produced with the built-in Imagegen tool. The prompts are preserved in `image-generation-prompts.md`. The original persona sheet is retained as a source asset; it is no longer the portrait shown on slide 4.
+
+## Transparent cutout follow-up
+
+- Removed both generated images' studio backgrounds using built-in Imagegen. Verified both PNGs contain alpha transparency.
+- Removed the persona image's frame and the suit image's CSS background and multiply blending so the slide backgrounds show through.
+- Centered the suit within a 34cqw circular backdrop, sizing its image box to 20cqw × 31cqw. Removed pointer parallax from this image so it stays centered.
+- Reviewed product and persona screenshots in Playwright at 1920 × 1080. The complete suit stays within the circle, including collar and trouser hems.
