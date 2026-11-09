@@ -34,11 +34,11 @@ Décrire la cible de prospection et distinguer les faits issus du persona des se
 
 ## 09. Attirer — leviers (55 secondes)
 
-Donner pour chaque levier son rôle et son pourquoi. Ne pas citer de CTR ou CPM de campagne comme si des publicités étaient diffusées. Le Reel reste conceptuel tant que le MP4 n’est pas finalisé.
+Donner pour chaque levier son rôle et son pourquoi. Ne pas citer de CTR ou CPM de campagne comme si des publicités étaient diffusées. Un export test de 15 secondes existe, mais ses visuels et son contraste restent à améliorer avant validation.
 
 ## 10. Attirer — contenus créés (65 secondes)
 
-Montrer les créations, puis expliquer que les deux images servent la découverte de la collection. Le Reel a une direction créative et un storyboard, mais sa vidéo finale reste à produire : être transparent. Les pages Facebook/Instagram publiées sont à vérifier.
+Montrer les créations, puis expliquer que les deux images servent la découverte de la collection. Le Reel dispose d’un export test de 15 secondes ; ses visuels et son contraste restent à améliorer. Le fichier de 25 secondes est incomplet et ne doit pas être présenté comme livrable final. Les pages Facebook/Instagram publiées sont à vérifier.
 
 ## 11. Convertir — objectif SMART (65 secondes)
 
