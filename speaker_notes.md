@@ -54,7 +54,7 @@ Expliquer qu’une animation n’est pas un objectif marketing : elle doit aider
 
 ## 14. Convertir — contenu créé (80 secondes)
 
-Faire une démonstration courte de la landing page depuis le serveur local. Montrer la galerie, le guide et le bouton vers la boutique. Si l’application n’est pas disponible sur le poste de soutenance, utiliser la maquette et une vidéo de secours. La maquette ne prouve pas le build en production.
+La landing page en ligne se charge automatiquement dans cette diapositive. Montrer la galerie, le guide et le bouton vers la boutique. Le bouton ouvre aussi le site dans un nouvel onglet. Une connexion internet est nécessaire.
 
 ## 15. Fidéliser — objectif SMART (65 secondes)
 

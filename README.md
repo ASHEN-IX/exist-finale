@@ -7,7 +7,7 @@ Présentation académique (non officielle) en français, 20 diapositives, 19 min
 - Ouvrez `index.html` directement dans Chromium/Chrome/Firefox, ou lancez `python -m http.server 8080` depuis ce dossier et visitez `http://localhost:8080`.
 - Pour les animations GSAP avancées, une connexion réseau peut être nécessaire (le script GSAP est chargé via CDN). La navigation et les transitions CSS fonctionnent hors ligne.
 - Navigation: ← → / Espace; `F` plein écran; `M` sommaire; `N` notes orales; cliquer sur les visuels pour agrandir.
-- Démo de la landing page: dans un terminal séparé, démarrez `../exist-campagne-nextjs` avec `npm install` puis `npm run dev` et ouvrez `http://localhost:3000`.
+- Landing page en ligne : https://exist-landing-orpin.vercel.app/ — intégrée à la diapositive 14, chargement automatique, connexion internet nécessaire.
 
 ## Contenus / vérifications
 
